@@ -6,9 +6,8 @@ Ali Alhawas (439015852)
 - phase 2 'General Changes'10/11/2020
 
 ِAbdulrahman ALghurman (438009996)
-- phase 1 'Design figures the website ' 12/10/2020
-- phase 2 'Design FlowChart diagram ' 8/11/2020
-
+- phase 1 'User interface design ' 12/10/2020
+- phase 2 'FlowChart diagram design  ' 8/11/2020
 
 Anas eissa Alzhrani (438011286)
 - phase 1 'Section 2' 18/10/2020
