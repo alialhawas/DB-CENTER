@@ -8,6 +8,7 @@ Ali Alhawas (439015852)
 ِAbdulrahman ALghurman (438009996)
 - phase 1 'User interface design ' 12/10/2020
 - phase 2 'FlowChart diagram design  ' 8/11/2020
+- phase 3 'Methodology slides ' 25/11/2020
 
 Anas eissa Alzhrani (438011286)
 - phase 1 'Section 2' 18/10/2020
