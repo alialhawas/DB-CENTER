@@ -4,6 +4,8 @@ Ali Alhawas (439015852)
 - Phase 1 'General Changes' 21/10/2020 
 - phase 2 'page 0,1,2,3 & class diagrm & Class Method Descriptions &	Conclusion' 9/11/2020
 - phase 2 'General Changes'10/11/2020
+- phase 3 'write the php, html and Css' 5/12/2020
+- Phase 3 'write the sides ,make the graphs and the design' 5/12/2020
 
 ِAbdulrahman ALghurman (438009996)
 - phase 1 'User interface design ' 12/10/2020
