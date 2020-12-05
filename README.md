@@ -18,3 +18,4 @@ Anas eissa Alzhrani (438011286)
 
  - phase 1 'write FR and NFR ' 10/10/2020
  - phase 2  'work along with ali alhawas in class diagram and Class Method Descriptions' 9/11/2020
+ - phase 3  'Introduction slides' 30/11/2020
